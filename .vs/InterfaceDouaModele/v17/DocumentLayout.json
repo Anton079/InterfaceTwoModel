@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\models\\oameni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\models\\oameni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\models\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\models\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\services\\oamenicomandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\services\\oamenicomandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\services\\oameniqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\services\\oameniqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\services\\vehiculecomandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\services\\vehiculecomandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\services\\vehiculequeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\services\\vehiculequeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\repository\\oamenirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\repository\\oamenirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\repository\\vehiculerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\repository\\vehiculerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\repository\\ivehiculerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\repository\\ivehiculerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\services\\ioameniqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\services\\ioameniqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\services\\ioamenicomandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\services\\ioamenicomandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\services\\ivehiculecomandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\services\\ivehiculecomandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\services\\ivehiculequeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\services\\ivehiculequeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|c:\\users\\horia\\source\\repos\\interfacedouamodele\\interfacedouamodele\\repository\\ioamenirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E802E-4385-4DE5-B306-1ED1257E5D7E}|InterfaceDouaModele\\InterfaceDouaModele.csproj|solutionrelative:interfacedouamodele\\repository\\ioamenirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\View.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\View.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\View.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\View.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:28:36.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehiculeQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\VehiculeQueryService.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\services\\VehiculeQueryService.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\VehiculeQueryService.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\services\\VehiculeQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:01:35.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IVehiculeQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\IVehiculeQueryService.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\services\\IVehiculeQueryService.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\IVehiculeQueryService.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\services\\IVehiculeQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:01:18.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehiculeComandService.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\VehiculeComandService.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\services\\VehiculeComandService.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\VehiculeComandService.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\services\\VehiculeComandService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:00:50.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IVehiculeComandService.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\IVehiculeComandService.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\services\\IVehiculeComandService.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\IVehiculeComandService.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\services\\IVehiculeComandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:00:22.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VehiculeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\repository\\VehiculeRepository.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\repository\\VehiculeRepository.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\repository\\VehiculeRepository.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\repository\\VehiculeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:00:09.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IVehiculeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\repository\\IVehiculeRepository.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\repository\\IVehiculeRepository.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\repository\\IVehiculeRepository.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\repository\\IVehiculeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:59:56.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OameniQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\OameniQueryService.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\services\\OameniQueryService.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\OameniQueryService.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\services\\OameniQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:57:58.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOameniQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\IOameniQueryService.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\services\\IOameniQueryService.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\IOameniQueryService.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\services\\IOameniQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:57:42.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OameniComandService.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\OameniComandService.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\services\\OameniComandService.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\OameniComandService.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\services\\OameniComandService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:57:06.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOameniComandService.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\IOameniComandService.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\services\\IOameniComandService.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\services\\IOameniComandService.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\services\\IOameniComandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:56:48.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OameniRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\repository\\OameniRepository.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\repository\\OameniRepository.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\repository\\OameniRepository.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\repository\\OameniRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:56:15.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOameniRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\repository\\IOameniRepository.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\repository\\IOameniRepository.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\repository\\IOameniRepository.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\repository\\IOameniRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:55:20.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Oameni.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\models\\Oameni.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\models\\Oameni.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\models\\Oameni.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\models\\Oameni.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:04:43.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicule.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\models\\Vehicule.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\models\\Vehicule.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\models\\Vehicule.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\models\\Vehicule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:04:33.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceDouaModele\\Program.cs",
+              "ToolTip": "C:\\Users\\Horia\\source\\repos\\InterfaceDouaModele\\InterfaceDouaModele\\Program.cs",
+              "RelativeToolTip": "InterfaceDouaModele\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:57:07.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
