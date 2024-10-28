@@ -1,0 +1,15 @@
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\bin\Debug\net8.0\InterfaceDouaModele.exe
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\bin\Debug\net8.0\InterfaceDouaModele.deps.json
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\bin\Debug\net8.0\InterfaceDouaModele.runtimeconfig.json
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\bin\Debug\net8.0\InterfaceDouaModele.dll
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\bin\Debug\net8.0\InterfaceDouaModele.pdb
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\obj\Debug\net8.0\InterfaceDouaModele.GeneratedMSBuildEditorConfig.editorconfig
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\obj\Debug\net8.0\InterfaceDouaModele.AssemblyInfoInputs.cache
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\obj\Debug\net8.0\InterfaceDouaModele.AssemblyInfo.cs
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\obj\Debug\net8.0\InterfaceDouaModele.csproj.CoreCompileInputs.cache
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\obj\Debug\net8.0\InterfaceDouaModele.sourcelink.json
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\obj\Debug\net8.0\InterfaceDouaModele.dll
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\obj\Debug\net8.0\refint\InterfaceDouaModele.dll
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\obj\Debug\net8.0\InterfaceDouaModele.pdb
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\obj\Debug\net8.0\InterfaceDouaModele.genruntimeconfig.cache
+C:\mycode\oop\mostenire\InterfaceDouaModele\InterfaceDouaModele\obj\Debug\net8.0\ref\InterfaceDouaModele.dll

@@ -265,14 +265,17 @@ namespace InterfaceDouaModele
                         Console.Write("Introdu noul nume complet: ");
                         om.FullName = Console.ReadLine();
                         break;
+
                     case "2":
                         Console.Write("Introdu noul email: ");
                         om.Mail = Console.ReadLine();
                         break;
+
                     case "3":
                         Console.Write("Introdu noua parola: ");
                         om.Password = Console.ReadLine();
                         break;
+
                     default:
                         Console.WriteLine("Optiune invalida.");
                         return;

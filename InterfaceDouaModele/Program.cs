@@ -63,40 +63,40 @@ internal class Program
         //Console.WriteLine("vehicul șters.");
 
 
-        //List<Oameni> toateOamenii = oameniQueryService.getAll();
-        //if (toateOamenii != null)
-        //{
-        //    Console.WriteLine($"numărul de oameni: {toateOamenii.Count}");
-        //}
-        //else
-        //{
-        //    Console.WriteLine("nu există oameni.");
-        //}
+        List<Oameni> toatiOamenii = oameniQueryService.getAll();
+        if (toatiOamenii != null)
+        {
+            Console.WriteLine($"numărul de oameni: {toatiOamenii.Count}");
+        }
+        else
+        {
+            Console.WriteLine("nu există oameni.");
+        }
 
 
-        //Oameni om = oameniQueryService.FindOameniById(1);
-        //if (om != null)
-        //{
-        //    Console.WriteLine($"om găsit: {om}");
-        //}
-        //else
-        //{
-        //    Console.WriteLine("om nu a fost găsit");
-        //}
+        Oameni om = oameniQueryService.FindOameniById(1);
+        if (om != null)
+        {
+            Console.WriteLine($"om găsit: {om}");
+        }
+        else
+        {
+            Console.WriteLine("om nu a fost găsit");
+        }
 
 
-        //Oameni omNou = new Oameni(1, "ion", "yahooIon","passwordIon");
-        //oameniComandService.AddOameni(omNou);
-        //Console.WriteLine("om adăugat.");
+        Oameni omNou = new Oameni(1, "ion", "yahooIon", "passwordIon");
+        oameniComandService.AddOameni(omNou);
+        Console.WriteLine("om adăugat.");
 
 
-        //omNou = new Oameni(1, "ion actualizat", "yahooIon Actual", "password Ion Actualizat");
-        //oameniComandService.UpdateOameni(omNou);
-        //Console.WriteLine("om actualizat.");
+        omNou = new Oameni(1, "ion actualizat", "yahooIon Actual", "password Ion Actualizat");
+        oameniComandService.UpdateOameni(omNou);
+        Console.WriteLine("om actualizat.");
 
 
-        //oameniComandService.RemoveOameni(omNou);
-        //Console.WriteLine("om șters.");
+        oameniComandService.RemoveOameni(omNou);
+        Console.WriteLine("om sters.");
 
     }
 }

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\InterfaceDouaModele",
+    "\\InterfaceDouaModele\\models",
+    "\\InterfaceDouaModele\\Oameni",
+    "\\InterfaceDouaModele\\Oameni\\Repository",
+    "\\InterfaceDouaModele\\Oameni\\Service",
+    "\\InterfaceDouaModele\\Vehicles",
+    "\\InterfaceDouaModele\\Vehicles\\repository",
+    "\\InterfaceDouaModele\\Vehicles\\services"
+  ],
+  "SelectedNode": "\\InterfaceDouaModele\\View.cs",
+  "PreviewInSolutionExplorer": false
+}
